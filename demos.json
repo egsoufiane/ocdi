@@ -74,6 +74,7 @@
         "name": "Demo 9",
         "folder": "demo_9",
         "preview": "https:\/\/your-site.com\/demo_9",
+        "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip"
     }
