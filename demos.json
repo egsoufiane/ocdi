@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Demo 1",
+        "folder": "demo_1",
+        "preview": "https:\/\/your-site.com\/demo_1",
+        "content": "content.xml",
+        "widgets": "widgets.wie",
+        "customizer": "customizer.dat",
+        "preview_image": "preview.jpg"
+    },
+    {
+        "name": "Demo 2",
+        "folder": "demo_2",
+        "preview": "https:\/\/your-site.com\/demo_2",
+        "content": "content.xml",
+        "widgets": "widgets.wie",
+        "customizer": "customizer.dat",
+        "preview_image": "preview.jpg"
+    },
+    {
+        "name": "Demo 3",
+        "folder": "demo_3",
+        "preview": "https:\/\/your-site.com\/demo_3",
+        "content": "content.xml",
+        "widgets": "widgets.wie",
+        "customizer": "customizer.dat"
+    },
+    {
+        "name": "Demo 4",
+        "folder": "demo_4",
+        "preview": "https:\/\/your-site.com\/demo_4",
+        "content": "content.xml",
+        "widgets": "widgets.wie",
+        "customizer": "customizer.dat"
+    },
+    {
+        "name": "Demo 5",
+        "folder": "demo_5",
+        "preview": "https:\/\/your-site.com\/demo_5",
+        "kit": true,
+        "kit_file": "kit.zip"
+    },
+    {
+        "name": "Demo 6",
+        "folder": "demo_6",
+        "preview": "https:\/\/your-site.com\/demo_6",
+        "content": "content.xml",
+        "widgets": "widgets.wie",
+        "customizer": "customizer.dat",
+        "kit": true,
+        "kit_file": "kit.zip"
+    },
+    {
+        "name": "Demo 7",
+        "folder": "demo_7",
+        "preview": "https:\/\/your-site.com\/demo_7",
+        "content": "content.xml",
+        "widgets": "widgets.wie",
+        "customizer": "customizer.dat",
+        "preview_image": "preview.jpg",
+        "kit": true,
+        "kit_file": "kit.zip"
+    },
+    {
+        "name": "Demo 8",
+        "folder": "demo_8",
+        "preview": "https:\/\/your-site.com\/demo_8",
+        "customizer": "customizer.dat",
+        "preview_image": "preview.jpg",
+        "kit": true,
+        "kit_file": "kit.zip"
+    }
+]
