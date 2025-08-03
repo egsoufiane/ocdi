@@ -54,9 +54,6 @@
         "name": "Demo 7",
         "folder": "demo_7",
         "preview": "https:\/\/your-site.com\/demo_7",
-        "content": "content.xml",
-        "widgets": "widgets.wie",
-        "customizer": "customizer.dat",
         "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip"
