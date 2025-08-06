@@ -8,7 +8,7 @@ foreach (glob($base_path . '/demo_*') as $folder) {
     $entry = [
         'name' => ucfirst(str_replace('_', ' ', $folder_name)),
         'folder' => $folder_name,
-        'preview' => 'https://your-site.com/' . $folder_name,
+        'preview' => $folder_name . '.dev.ananass.fr',
     ];
 
     if (file_exists("$folder/content.xml")) {

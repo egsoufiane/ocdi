@@ -2,7 +2,7 @@
     {
         "name": "Demo 1",
         "folder": "demo_1",
-        "preview": "https:\/\/your-site.com\/demo_1",
+        "preview": "demo_1.dev.ananass.fr",
         "content": "content.xml",
         "widgets": "widgets.wie",
         "customizer": "customizer.dat",
@@ -11,7 +11,7 @@
     {
         "name": "Demo 10",
         "folder": "demo_10",
-        "preview": "https:\/\/your-site.com\/demo_10",
+        "preview": "demo_10.dev.ananass.fr",
         "customizer": "customizer.dat",
         "preview_image": "preview.jpg",
         "kit": true,
@@ -20,7 +20,7 @@
     {
         "name": "Demo 2",
         "folder": "demo_2",
-        "preview": "https:\/\/your-site.com\/demo_2",
+        "preview": "demo_2.dev.ananass.fr",
         "content": "content.xml",
         "widgets": "widgets.wie",
         "customizer": "customizer.dat",
@@ -29,7 +29,7 @@
     {
         "name": "Demo 3",
         "folder": "demo_3",
-        "preview": "https:\/\/your-site.com\/demo_3",
+        "preview": "demo_3.dev.ananass.fr",
         "content": "content.xml",
         "widgets": "widgets.wie",
         "customizer": "customizer.dat"
@@ -37,7 +37,7 @@
     {
         "name": "Demo 4",
         "folder": "demo_4",
-        "preview": "https:\/\/your-site.com\/demo_4",
+        "preview": "demo_4.dev.ananass.fr",
         "content": "content.xml",
         "widgets": "widgets.wie",
         "customizer": "customizer.dat"
@@ -45,14 +45,14 @@
     {
         "name": "Demo 5",
         "folder": "demo_5",
-        "preview": "https:\/\/your-site.com\/demo_5",
+        "preview": "demo_5.dev.ananass.fr",
         "kit": true,
         "kit_file": "kit.zip"
     },
     {
         "name": "Demo 6",
         "folder": "demo_6",
-        "preview": "https:\/\/your-site.com\/demo_6",
+        "preview": "demo_6.dev.ananass.fr",
         "content": "content.xml",
         "widgets": "widgets.wie",
         "customizer": "customizer.dat",
@@ -62,7 +62,7 @@
     {
         "name": "Demo 7",
         "folder": "demo_7",
-        "preview": "https:\/\/your-site.com\/demo_7",
+        "preview": "demo_7.dev.ananass.fr",
         "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip"
@@ -70,7 +70,7 @@
     {
         "name": "Demo 8",
         "folder": "demo_8",
-        "preview": "https:\/\/your-site.com\/demo_8",
+        "preview": "demo_8.dev.ananass.fr",
         "customizer": "customizer.dat",
         "preview_image": "preview.jpg",
         "kit": true,
@@ -79,7 +79,7 @@
     {
         "name": "Demo 9",
         "folder": "demo_9",
-        "preview": "https:\/\/your-site.com\/demo_9",
+        "preview": "demo_9.dev.ananass.fr",
         "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip"
