@@ -18,6 +18,15 @@
         "kit_file": "kit.zip"
     },
     {
+        "name": "Demo 11",
+        "folder": "demo_11",
+        "preview": "demo_11.dev.ananass.fr",
+        "customizer": "customizer.dat",
+        "preview_image": "preview.jpg",
+        "kit": true,
+        "kit_file": "kit.zip"
+    },
+    {
         "name": "Demo 2",
         "folder": "demo_2",
         "preview": "demo_2.dev.ananass.fr",
