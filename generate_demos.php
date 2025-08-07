@@ -3,7 +3,7 @@
 $demos = [];
 $base_path = __DIR__; // Adjust if needed
 
-foreach (glob($base_path . '/demo_*') as $folder) {
+foreach (glob($base_path . '/demos/*') as $folder) {
     $folder_name = basename($folder);
     $entry = [
         'name' => ucfirst(str_replace('_', ' ', $folder_name)),

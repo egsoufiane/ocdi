@@ -92,5 +92,14 @@
         "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip"
+    },
+    {
+        "name": "Highpoint",
+        "folder": "highpoint",
+        "preview": "highpoint.dev.ananass.fr",
+        "customizer": "customizer.dat",
+        "preview_image": "preview.jpg",
+        "kit": true,
+        "kit_file": "kit.zip"
     }
 ]
