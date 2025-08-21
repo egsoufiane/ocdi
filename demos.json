@@ -74,7 +74,15 @@
         "preview": "demo_7.dev.ananass.fr",
         "preview_image": "preview.jpg",
         "kit": true,
-        "kit_file": "kit.zip"
+        "kit_file": "kit.zip",
+        "plugins": {
+            "free": [
+                "elementor"
+            ],
+            "premium": {
+                "elementor-pro-3.30.1": "plugins\/elementor-pro-3.30.1.zip"
+            }
+        }
     },
     {
         "name": "Demo 8",
@@ -83,7 +91,15 @@
         "customizer": "customizer.dat",
         "preview_image": "preview.jpg",
         "kit": true,
-        "kit_file": "kit.zip"
+        "kit_file": "kit.zip",
+        "plugins": {
+            "free": [
+                "elementor"
+            ],
+            "premium": {
+                "elementor-pro-3.30.1": "plugins\/elementor-pro-3.30.1.zip"
+            }
+        }
     },
     {
         "name": "Demo 9",

@@ -11,6 +11,7 @@ foreach (glob($base_path . '/demos/*') as $folder) {
         'preview' => $folder_name . '.dev.ananass.fr',
     ];
 
+    // Optional demo files
     if (file_exists("$folder/content.xml")) {
         $entry['content'] = 'content.xml';
     }
@@ -27,6 +28,33 @@ foreach (glob($base_path . '/demos/*') as $folder) {
         $entry['kit'] = true;
         $entry['kit_file'] = 'kit.zip';
     }
+
+    // -------- Plugins Handling --------
+    $plugins_dir = "$folder/plugins";
+    $plugins = [
+        'free' => [],
+        'premium' => []
+    ];
+
+    // Free plugins from requirements.txt
+    $req_file = "$plugins_dir/requirements.txt";
+    if (file_exists($req_file)) {
+        $slugs = file($req_file, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+        $plugins['free'] = $slugs;
+    }
+
+    // Premium plugin zips
+    if (is_dir($plugins_dir)) {
+        foreach (glob("$plugins_dir/*.zip") as $zip_file) {
+            $plugin_slug = basename($zip_file, '.zip'); // keep version in name
+            $plugins['premium'][$plugin_slug] = 'plugins/' . basename($zip_file);
+        }
+    }
+
+    if (!empty($plugins['free']) || !empty($plugins['premium'])) {
+        $entry['plugins'] = $plugins;
+    }
+    // ---------------------------------
 
     $demos[] = $entry;
 }
