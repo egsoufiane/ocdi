@@ -21,7 +21,8 @@
                 "elementor"
             ],
             "premium": {
-                "elementor-pro": "plugins\/elementor-pro.zip"
+                "elementor-pro": "plugins\/elementor-pro.zip",
+                "wp-reset": "plugins\/wp-reset.zip"
             }
         }
     },
