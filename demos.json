@@ -33,7 +33,16 @@
         "customizer": "customizer.dat",
         "preview_image": "preview.jpg",
         "kit": true,
-        "kit_file": "kit.zip"
+        "kit_file": "kit.zip",
+        "plugins": {
+            "free": [
+                "elementor"
+            ],
+            "premium": {
+                "elementor-pro": "plugins\/elementor-pro.zip",
+                "wp-reset": "plugins\/wp-reset.zip"
+            }
+        }
     },
     {
         "name": "Demo 2",
