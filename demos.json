@@ -92,15 +92,7 @@
         "preview": "demo_7.dev.ananass.fr",
         "preview_image": "preview.jpg",
         "kit": true,
-        "kit_file": "kit.zip",
-        "plugins": {
-            "free": [
-                "elementor"
-            ],
-            "premium": {
-                "wp-reset": "plugins\/wp-reset.zip"
-            }
-        }
+        "kit_file": "kit.zip"
     },
     {
         "name": "Demo 8",
@@ -123,6 +115,22 @@
         "name": "Demo 9",
         "folder": "demo_9",
         "preview": "demo_9.dev.ananass.fr",
+        "preview_image": "preview.jpg",
+        "kit": true,
+        "kit_file": "kit.zip"
+    },
+    {
+        "name": "Earthly-elegance",
+        "folder": "earthly-elegance",
+        "preview": "earthly-elegance.dev.ananass.fr",
+        "preview_image": "preview.jpg",
+        "kit": true,
+        "kit_file": "kit.zip"
+    },
+    {
+        "name": "Ferryman",
+        "folder": "ferryman",
+        "preview": "ferryman.dev.ananass.fr",
         "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip"
