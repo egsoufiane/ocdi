@@ -5,14 +5,14 @@
         "preview": "demo_1.dev.ananass.fr",
         "content": "content.xml",
         "widgets": "widgets.wie",
-        "customizer": "customizer.dat",
+        "customizer": "customizer.json",
         "preview_image": "preview.jpg"
     },
     {
         "name": "Demo 10",
         "folder": "demo_10",
         "preview": "demo_10.dev.ananass.fr",
-        "customizer": "customizer.dat",
+        "customizer": "customizer.json",
         "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip",
@@ -30,7 +30,7 @@
         "name": "Demo 11",
         "folder": "demo_11",
         "preview": "demo_11.dev.ananass.fr",
-        "customizer": "customizer.dat",
+        "customizer": "customizer.json",
         "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip",
@@ -50,7 +50,7 @@
         "preview": "demo_2.dev.ananass.fr",
         "content": "content.xml",
         "widgets": "widgets.wie",
-        "customizer": "customizer.dat",
+        "customizer": "customizer.json",
         "preview_image": "preview.jpg"
     },
     {
@@ -59,7 +59,7 @@
         "preview": "demo_3.dev.ananass.fr",
         "content": "content.xml",
         "widgets": "widgets.wie",
-        "customizer": "customizer.dat"
+        "customizer": "customizer.json"
     },
     {
         "name": "Demo 4",
@@ -67,7 +67,7 @@
         "preview": "demo_4.dev.ananass.fr",
         "content": "content.xml",
         "widgets": "widgets.wie",
-        "customizer": "customizer.dat"
+        "customizer": "customizer.json"
     },
     {
         "name": "Demo 5",
@@ -82,7 +82,7 @@
         "preview": "demo_6.dev.ananass.fr",
         "content": "content.xml",
         "widgets": "widgets.wie",
-        "customizer": "customizer.dat",
+        "customizer": "customizer.json",
         "kit": true,
         "kit_file": "kit.zip"
     },
@@ -98,7 +98,7 @@
         "name": "Demo 8",
         "folder": "demo_8",
         "preview": "demo_8.dev.ananass.fr",
-        "customizer": "customizer.dat",
+        "customizer": "customizer.json",
         "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip",
@@ -123,6 +123,7 @@
         "name": "Earthly-elegance",
         "folder": "earthly-elegance",
         "preview": "earthly-elegance.dev.ananass.fr",
+        "customizer": "customizer.json",
         "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip"
@@ -131,6 +132,7 @@
         "name": "Ferryman",
         "folder": "ferryman",
         "preview": "ferryman.dev.ananass.fr",
+        "customizer": "customizer.json",
         "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip"
@@ -139,7 +141,7 @@
         "name": "Highpoint",
         "folder": "highpoint",
         "preview": "highpoint.dev.ananass.fr",
-        "customizer": "customizer.dat",
+        "customizer": "customizer.json",
         "preview_image": "preview.jpg",
         "kit": true,
         "kit_file": "kit.zip"

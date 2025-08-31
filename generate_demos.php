@@ -18,8 +18,8 @@ foreach (glob($base_path . '/demos/*') as $folder) {
     if (file_exists("$folder/widgets.wie")) {
         $entry['widgets'] = 'widgets.wie';
     }
-    if (file_exists("$folder/customizer.dat")) {
-        $entry['customizer'] = 'customizer.dat';
+    if (file_exists("$folder/customizer.json")) {
+        $entry['customizer'] = 'customizer.json';
     }
     if (file_exists("$folder/preview.jpg")) {
         $entry['preview_image'] = 'preview.jpg';
